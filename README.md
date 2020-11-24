@@ -9,10 +9,10 @@
     Python | Django | Django Rest Framework | Vue.js
    I am currently looking to collaborate on open source projects
    
-   You can also checkout my blog
+   heckout my blog
    
    - [techtrainee.tk](https://techtrainee.tk) 
    
    you can contact me on:
    
-   - [twitter](https://twitter.com/I_am_camzy) | [Stack Overflow](https://stackoverflow.com/blackpandan)
+   - [twitter](https://twitter.com/I_am_camzy) | [Stack Overflow](https://stackoverflow.com/https://stackoverflow.com/camzy)
