@@ -9,7 +9,7 @@
     Python | Django | Django Rest Framework | Vue.js
    I am currently looking to collaborate on open source projects
    
-   heckout my blog
+   checkout my blog
    
    - [techtrainee.tk](https://techtrainee.tk) 
    
