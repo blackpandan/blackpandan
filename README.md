@@ -7,7 +7,11 @@
   you can ask me about:
 
     Python | Django | Django Rest Framework | Vue.js
+    
+    
    I am currently looking to collaborate on open source projects
+   
+   
    
    ##### checkout my blog
    
