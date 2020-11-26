@@ -1,5 +1,5 @@
 
-## Hi,there 👋
+# Hi,there 👋
 
   **I'm James Faith from Nigeria,**
   
@@ -9,11 +9,11 @@
     Python | Django | Django Rest Framework | Vue.js
    I am currently looking to collaborate on open source projects
    
-   checkout my blog
+   ##### checkout my blog
    
    - [techtrainee.tk](https://techtrainee.tk) 
    
-   you can contact me on:
+   ##### you can contact me on:
    
    - [twitter](https://twitter.com/I_am_camzy) | [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
    
