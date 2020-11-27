@@ -19,7 +19,9 @@
    
    **you can contact me on:**
    
-   - [twitter](https://twitter.com/I_am_camzy) | [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
+   - [twitter](https://twitter.com/I_am_camzy) 
    
-   ![pic](https://github.com/blackpandan/my_pictures/blob/main/arian-darvishi-wh-RPfR_3_M-unsplash.jpg)
+   
+   - [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
+   
 
