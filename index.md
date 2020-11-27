@@ -13,11 +13,11 @@
    
    
    
-   ##### checkout my blog
+   **checkout my blog:**
    
    - [techtrainee.tk](https://techtrainee.tk) 
    
-   ##### you can contact me on:
+   **you can contact me on:**
    
    - [twitter](https://twitter.com/I_am_camzy) | [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
    
