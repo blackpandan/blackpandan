@@ -9,7 +9,7 @@
     Python | Django | Django Rest Framework | Vue.js
     
     
-   I am currently looking to collaborate on open source projects
+   I am currently looking to collaborate on open source projects and learn go.
    
    
    
