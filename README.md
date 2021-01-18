@@ -13,7 +13,7 @@
    
    
    
-   #### checkout my blog
+  #### Socials
    
    <p align="left">
     <a href="https://techtrainee.tk">
