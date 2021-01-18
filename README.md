@@ -18,8 +18,9 @@
    - [techtrainee.tk](https://techtrainee.tk) 
    
    #### you can contact me on: 
-   
-   - [twitter](https://twitter.com/camzy_l) | [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
+
+   ![Twitter Follow](https://img.shields.io/twitter/follow/camzy_l?label=follow%20me%20on%20twitter&style=social)
+   - [Stack Overflow](https://stackoverflow.com/users/13683741/camzy)
    
    <p align="center">
        <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=blackpandan&show_icons=true&theme=synthwave">
