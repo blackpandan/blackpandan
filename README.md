@@ -1,7 +1,7 @@
 
 # Hi,there 👋
 
-  **I'm James Faith from Nigeria,**
+  ### I'm James Faith from Nigeria,
   
   i am web developer who is currently looking to collaborate more on open source projects,
   you can ask me about:
@@ -26,7 +26,7 @@
    </p>
 
    <p align="center">
-       <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=blackpandan&show_icons=true&theme=synthwave">
+       <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=blackpandan&show_icons=true&count_private=true&theme=synthwave&line_height=40">
    </p>
     
     
