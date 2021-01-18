@@ -31,7 +31,7 @@
     
     
    <p align="center">
-       <img alt="Faith James's logo" src="" >
+       <img alt="Faith James's logo" src="https://github.com/blackpandan/my_pictures/blob/main/arian-darvishi-wh-RPfR_3_M-unsplash.jpg" >
    </p>
    
  
