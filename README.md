@@ -15,10 +15,11 @@
    
    #### checkout my blog
    
-   <p align="center">
+   <p align="left">
     <a href="https://techtrainee.tk">
         <img alt="My Blog" src="https://img.shields.io/badge/My blog-Tech Trainee-orange">
     </a>
+    <br>
     <a href="https://twitter.com/follow/camzy_l">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/camzy_l?label=Follow%20me%20on%20Twitter&style=social">
     </a>
