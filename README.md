@@ -20,8 +20,11 @@ I'm James Faith from Nigeria,
   #### Socials
    
    <p align="left">
-    <a href="https://techtrainee.tk">
-        <img alt="My Blog" src="https://img.shields.io/badge/My blog-Tech Trainee-orange">
+    <a href="https://faithjames.tk">
+        <img alt="My Portfolio" src="https://img.shields.io/badge/My Portfolio-James Faith's Portfolio-orange">
+    </a>
+    <a href="https://blog.faithjames.tk">
+        <img alt="My Blog" src="https://img.shields.io/badge/My blog-Tech Trainee-blue">
     </a>
     <br>
     <a href="https://twitter.com/follow/camzy_l">
