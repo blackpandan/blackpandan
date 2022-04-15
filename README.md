@@ -20,10 +20,10 @@ I'm James Faith from Nigeria,
   #### Socials
    
    <p align="left">
-    <a href="https://faithjames.tk">
+    <a href="https://devfate.come">
         <img alt="My Portfolio" src="https://img.shields.io/badge/My Portfolio-James Faith's Portfolio-orange">
     </a>
-    <a href="https://blog.faithjames.tk">
+    <a href="https://blog.devfate.com">
         <img alt="My Blog" src="https://img.shields.io/badge/My blog-Tech Trainee-blue">
     </a>
     <br>
