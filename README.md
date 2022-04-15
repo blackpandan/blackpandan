@@ -20,7 +20,7 @@ I'm James Faith from Nigeria,
   #### Socials
    
    <p align="left">
-    <a href="https://devfate.come">
+    <a href="https://devfate.com">
         <img alt="My Portfolio" src="https://img.shields.io/badge/My Portfolio-James Faith's Portfolio-orange">
     </a>
     <a href="https://blog.devfate.com">
