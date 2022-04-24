@@ -9,8 +9,8 @@
 
 <!-- <hr> -->
 <div id="badges" align="center">
-    <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://www.linkedin.com/in/faith-james-354180188/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://twitter.com/devfate_j"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
     <a href="https://devfate.com">
         <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" />
     </a>
