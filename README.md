@@ -1,14 +1,14 @@
 
  
 <br></br>
-<div align="center">
-<div id="header">
+<div align="">
+<div id="header" align="center">
     <img src="./picture/my.png" height="200" />
 </div>
 <br>
 
 <!-- <hr> -->
-<div id="badges">
+<div id="badges" align="center">
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
     <a href="https://devfate.com">
@@ -19,13 +19,18 @@
     </a>
 
 </div>
-<hr />
+<br>
 
-<h2>Hi there 👋</h2>
+<h2 align="center">Hi there 👋</h2>
+
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" max-height="300"/>
+</div>
 
 <br>
 
-### **About Me**
+### **👨‍💻About Me :**
 
 <br>
  
@@ -34,10 +39,6 @@
   i am web developer who is currently looking to collaborate more on open source projects,
   you can ask me about:
 </p>
-
-<br>
-
-    Python | Django | Django Rest Framework | Vue.js
     
 <p>
    I am currently looking to collaborate on open source projects.
@@ -47,31 +48,55 @@
 
   ---
 
-  ### **language and tools**
+  ###  **🛠️Language and Tools :**
+
 
   <br>
 
-  <img src="pictures/">
+  <img src="./picture/html5.svg" width=30 >
+  <img src="./picture/css.svg" width=30 >
+  <img src="./picture/js.svg" width=30 >
+  <img src="./picture/vuejs.svg" width=30 >
+  <img src="./picture/nuxtjs.svg" width=30 >
+  <img src="./picture/sass.svg" width=30 >
+  <img src="./picture/python.svg" height=30 >
+  <img src="./picture/mysql.svg" width=30 >
+  <img src="./picture/postgresql.svg" width=30 >
+  <img src="./picture/django.svg" width=30 >
+  <img src="./picture/docker.svg" width=30 >
+  <img src="./picture/linux.svg" width=30 >
+  <img src="./picture/vscode.svg" width=30 >
    
-   <!-- <p align="center">
-    <a href="https://devfate.com">
-        <img alt="My Portfolio" src="https://img.shields.io/badge/My Portfolio-James Faith's Portfolio-orange">
-    </a>
+   <br>
 
-    <br>
-    <a href="https://twitter.com/follow/camzy_l">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/camzy_l?label=Follow%20me%20on%20Twitter&style=social">
-    </a>
+
+---
+
+
+   ### **🔥Stats:**
+
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blackpandan&theme=dark&background=311847&theme=synthwave)](https://git.io/streak-stats)
+
+<!-- 
+   <p align="center">
+       <img alt="James Faith github stats" src="https://github-readme-stats.vercel.app/api?username=blackpandan&show_icons=true&count_private=true&theme=synthwave&line_height=40&bg_color=311847">
    </p> -->
 
-   <p align="center">
-       <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=blackpandan&show_icons=true&count_private=true&theme=synthwave&line_height=40">
-   </p>
-    
-    
-   <p align="center">
-       <img alt="Faith James's logo" src="https://github.com/blackpandan/my_pictures/blob/main/arian-darvishi-wh-RPfR_3_M-unsplash.jpg" >
-   </p>
-   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpandan&theme=synthwave&bg_color=311847)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+
+---
+
+
+### **✍🏾Blog Posts :** 
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 </div>
