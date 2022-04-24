@@ -19,9 +19,9 @@
     </a>
 
 </div>
-<hr>
+<hr />
 
-<h1>Hi,there 👋 </h1>
+<h2>Hi there 👋</h2>
 
 <br>
 
@@ -47,7 +47,11 @@
 
   ---
 
-  ### :hammer_and_wrench: language and tools
+  ### **language and tools**
+
+  <br>
+
+  <img src="pictures/">
    
    <!-- <p align="center">
     <a href="https://devfate.com">
