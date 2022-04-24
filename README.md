@@ -97,6 +97,10 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Created A WebApp For Jobs, News, Dad Jokes with Vue/Nuxt](https://blog.devfate.com/how-i-created-a-webapp-for-jobs-news-dad-jokes-with-vuenuxt)
+- [Viewing Your Websites On Other Devices In Real Time Through Local Host](https://blog.devfate.com/running-on-localhost)
+- [Setting Up Django Rest Framework](https://blog.devfate.com/setting-up-django-rest-framework)
+- [Tech Is Your Bestie](https://blog.devfate.com/tech-is-your-bestie)
 <!-- BLOG-POST-LIST:END -->
  
 </div>
