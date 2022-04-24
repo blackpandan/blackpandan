@@ -23,17 +23,31 @@
 
 <h1>Hi,there 👋 </h1>
 
+<br>
+
+### **About Me**
+
+<br>
+ 
 <p>I'm James Faith from Nigeria,</p>
 <p>
   i am web developer who is currently looking to collaborate more on open source projects,
   you can ask me about:
 </p>
 
+<br>
+
     Python | Django | Django Rest Framework | Vue.js
     
 <p>
    I am currently looking to collaborate on open source projects.
   </p> 
+
+  <br>
+
+  ---
+
+  ### :hammer_and_wrench: language and tools
    
    <!-- <p align="center">
     <a href="https://devfate.com">
