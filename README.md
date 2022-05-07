@@ -36,13 +36,11 @@
  
 <p>I'm James Faith from Nigeria,</p>
 <p>
-  i am web developer who is currently looking to collaborate more on open source projects,
-  you can ask me about:
+  Your neighborhood web devloper who loves exploring/learning new technologies, perfecting skills already gained, solving code problems(katas) on codewars, teaching others and participating in opensource projects. 
+ currently open to oppurtunities and looking to collaborate more on open source projects.
 </p>
-    
-<p>
-   I am currently looking to collaborate on open source projects.
-  </p> 
+ 
+ 
 
   <br>
 
