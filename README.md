@@ -95,10 +95,10 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js Javascript Framework For All](https://blog.devfate.com/vuejs-javascript-framework-for-all)
-- [How I Created A WebApp For Jobs, News, Dad Jokes with Vue/Nuxt](https://blog.devfate.com/how-i-created-a-webapp-for-jobs-news-dad-jokes-with-vuenuxt)
-- [Viewing Your Websites On Other Devices In Real Time Through Local Host](https://blog.devfate.com/running-on-localhost)
-- [Setting Up Django Rest Framework](https://blog.devfate.com/setting-up-django-rest-framework)
+- [Vue.js Javascript Framework For All](https://devfate.hashnode.dev/vuejs-javascript-framework-for-all)
+- [How I Created A WebApp For Jobs, News, Dad Jokes with Vue/Nuxt](https://devfate.hashnode.dev/how-i-created-a-webapp-for-jobs-news-dad-jokes-with-vuenuxt)
+- [Viewing Your Websites On Other Devices In Real Time Through Local Host](https://devfate.hashnode.dev/running-on-localhost)
+- [Setting Up Django Rest Framework](https://devfate.hashnode.dev/setting-up-django-rest-framework)
 <!-- BLOG-POST-LIST:END -->
  
 </div>
