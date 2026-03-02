@@ -11,10 +11,10 @@
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/faith-james-354180188/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     <a href="https://twitter.com/devfate_j"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-    <a href="https://devfate.com">
+    <a href="https://devfate.netlify.app">
         <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" />
     </a>
-    <a href="https://blog.devfate.com">
+    <a href="https://devfate.hashnode.dev">
         <img alt="My Blog" src="https://img.shields.io/badge/Blog-purple?style=for-the-badge" />
     </a>
 
@@ -58,6 +58,7 @@
   <img src="./picture/nuxtjs.svg" width=30 >
   <img src="./picture/sass.svg" width=30 >
   <img src="./picture/python.svg" height=30 >
+  <img src="./picture/rust.svg" height=30 >
   <img src="./picture/mysql.svg" width=30 >
   <img src="./picture/postgresql.svg" width=30 >
   <img src="./picture/django.svg" width=30 >
@@ -95,6 +96,8 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+
+- [A Noob's Journey to Blockchain Development in Rust](https://devfate.hashnode.dev/a-noob-s-journey-to-blockchain-development-in-rust)
 - [Vue.js Javascript Framework For All](https://devfate.hashnode.dev/vuejs-javascript-framework-for-all)
 - [How I Created A WebApp For Jobs, News, Dad Jokes with Vue/Nuxt](https://devfate.hashnode.dev/how-i-created-a-webapp-for-jobs-news-dad-jokes-with-vuenuxt)
 - [Viewing Your Websites On Other Devices In Real Time Through Local Host](https://devfate.hashnode.dev/running-on-localhost)
