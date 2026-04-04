@@ -9,12 +9,12 @@
 
 <!-- <hr> -->
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/faith-james-354180188/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://www.linkedin.com/in/devfate/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     <a href="https://twitter.com/devfate_j"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-    <a href="https://devfate.netlify.app">
+    <a href="https://devfate.online">
         <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" />
     </a>
-    <a href="https://devfate.hashnode.dev">
+    <a href="https://blog.devfate.online">
         <img alt="My Blog" src="https://img.shields.io/badge/Blog-purple?style=for-the-badge" />
     </a>
 
